@@ -33,6 +33,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/grazielevasconcelos/templates"><b>Templates to do amazing software 😎</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grazielevasconcelos/templates?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grazielevasconcelos/templates?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grazielevasconcelos/templates?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grazielevasconcelos/templates?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/grazielevasconcelos/template_elk_event_driver"><b>Template ELK Event Driver</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grazielevasconcelos/template_elk_event_driver?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/grazielevasconcelos/template_elk_event_driver?style=flat-square&labelColor=343b41"/></td>
